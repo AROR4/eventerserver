@@ -16,4 +16,4 @@ router.route('/scanqr').post(scanQr)
 router.route('/facescan').post(facereg)
 
 module.exports = router
-module.exports.handler = serverless(express);
+// module.exports.handler = serverless(express);
