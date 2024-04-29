@@ -1,3 +1,0 @@
-[build]
-  command = "esbuild --bundle --outfile=dist/index.js --minify index.js"
-  publish = "dist"
