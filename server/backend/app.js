@@ -33,4 +33,4 @@ const start = async () => {
 
 start();
 
-// module.exports.handler = serverless(app);
+module.exports = app;
